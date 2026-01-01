@@ -1,5 +1,17 @@
 # @sveltejs/adapter-vercel
 
+## 6.3.0
+### Minor Changes
+
+
+- chore: mark `RequestContext` as deprecated and refer to `@vercel/functions` ([#14725](https://github.com/sveltejs/kit/pull/14725))
+
+
+### Patch Changes
+
+- Updated dependencies [[`a5c313e`](https://github.com/sveltejs/kit/commit/a5c313e026659874981868fe9628ed6a311dcc06)]:
+  - @sveltejs/kit@2.49.3
+
 ## 6.2.0
 ### Minor Changes
 
